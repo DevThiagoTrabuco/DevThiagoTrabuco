@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Thiago Trabuco a.k.a. @DevThiagoTrabuco
+- 👀 I’m interested in Web Design
+- 🌱 I’m currently learning HTML, CSS, JavaScript and some related frameworks.
+- 📫 How to reach me: dev.thiago.lima@outlook.com
