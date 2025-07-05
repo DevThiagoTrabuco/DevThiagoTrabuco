@@ -13,7 +13,7 @@ Atualmente, foco em criar **interfaces responsivas** e **funcionais** utilizando
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Ferramentas e tecnologias que uso:</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Ferramentas e tecnologias</b>
 
 C | C++ | Java | Spring Boot | Postman | SQL & NoSQL Databases | Git & Github | HTML | CSS | Javascript | Node.js | React.js | TailwindCSS
 
