@@ -40,7 +40,7 @@ C | C++ | Java | Spring Boot | Postman | SQL & NoSQL Databases | Git & Github | 
 
 ## 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/thiagotrs)
+- 💼 [LinkedIn](www.linkedin.com/in/thiago-trabuco-714126321)
 - 📬 dev.thiago.lima@outlook.com
 
 ---
