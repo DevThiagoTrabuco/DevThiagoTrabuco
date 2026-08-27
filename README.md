@@ -1,7 +1,7 @@
 ## 👋 Olá! Sou Thiago Trabuco.
 
-🎯 **Graduando em Farmácia** | UEFS | **8° Semestre**
-<br/>🎯 **Desenvolvedor Full Stack** | SENAI-BA | **3° Período**
+🎯 **Graduando em Farmácia** | UEFS | **9° Semestre**
+<br/>🎯 **Desenvolvedor Full Stack** | SENAI-BA |
 
 ---
 
